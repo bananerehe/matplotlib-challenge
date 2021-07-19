@@ -48,8 +48,6 @@ Here are some final considerations:
 
 * You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
-* See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
-
 ## Hints and Considerations
 
 * Be warned: These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
@@ -77,4 +75,3 @@ Here are some final considerations:
 ### Copyright
 
 Trilogy Education Services © 2020. All Rights Reserved.
-# matplotlib-challenge
